@@ -1,0 +1,125 @@
+.glist {
+  margin:20% auto;
+  width: 800px;
+  height:360px;
+  background-color: floralwhite;
+  display: flex;
+}
+.polglist {
+  height:260px;
+  float:left; 
+}
+
+.polglist2 {
+  width:260px;
+  height:260px;
+  float:left;
+  margin-left:73.3px;
+}
+
+.line{
+  width:5px;
+  background-color:rgb(112, 112, 112);
+  border:1px solid rgb(112, 112, 112);
+  float:left;
+  height:250px;
+  
+}
+.block {
+  margin-top: 120px;
+  border:2px solid black;
+  height: 50px;
+  margin-left: 40px;
+  width:286.8px;
+  border-radius: 5px;
+}
+
+.block2 {
+  margin-top: 2%;
+  border:2px solid black;
+  margin-left:40px;
+  height: 50px;
+  width:286.8px;
+  border-radius: 5px;
+}
+
+.blockin{
+  font-size:20px;
+  color:white;
+  margin-top:13px;
+  margin-left:6%;
+}
+
+.blockin2{
+  font-size:20px;
+  color:black;
+  margin-top:13px;;
+  outline: none;border:none;
+  background-color: floralwhite;
+}
+
+
+.circle {
+  border-radius: 1000px;
+  padding: 10px;
+  float:left;
+  color:white;
+  font-size:20px;
+  background-color:green;
+  width:26px;
+  height:26px;
+}
+
+.icon {
+  width:20px;
+  height:20px;
+}
+
+.login {
+  font-size:27px;
+  color:black;
+}
+
+.menu{ 
+    height: 10%;
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px ;
+    border-color: aliceblue;
+    background-color: aliceblue;
+    position: fixed;
+    justify-content: space-evenly;
+}
+.div0{
+    
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.body{
+    background-color: aquamarine;
+    margin: auto 0;
+}
+
+.but1:hover{
+    border: none;
+    background-color: aqua;
+    height: 3vw;
+    border-radius: 20px;
+    width: 6vw;
+    
+}
+
+.but1{
+    border: none;
+    background-color: red;
+    height: 3vw;
+    border-radius: 20px;
+    width: 6vw;
+    font-size: 1vw;
+}
